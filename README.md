@@ -13,7 +13,9 @@ We will be building a database engine for facial recognition purposes.
 The intial architecture is as follows:
 
 1)  Subject Image Parser
+
 2)  Subject Image Trainer
+
 3)  Test Image Recognizer
 
 There will be no public interfaces to the training data at this time.  This is primarily a research and development 
