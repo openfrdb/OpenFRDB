@@ -6,6 +6,7 @@ http://docs.opencv.org/doc/tutorials/introduction/linux_gcc_cmake/linux_gcc_cmak
 
 Introduction to Facial Recognition with OpenCV
 http://docs.opencv.org/modules/contrib/doc/facerec/index.html
+https://github.com/Itseez/opencv/blob/master/modules/contrib/doc/facerec/index.rst
 
 How to program a facial recognition application with Video Support:
 http://docs.opencv.org/modules/contrib/doc/facerec/tutorial/facerec_video_recognition.html?highlight=crop
