@@ -1,4 +1,14 @@
+How to Install OpenCV:
 http://karytech.blogspot.ca/2012/05/opencv-24-on-ubuntu-1204.html
+
+How to compile an OpenCV program in Linux:
 http://docs.opencv.org/doc/tutorials/introduction/linux_gcc_cmake/linux_gcc_cmake.html
+
+Introduction to Facial Recognition with OpenCV
+http://docs.opencv.org/modules/contrib/doc/facerec/index.html
+
+How to program a facial recognition application with Video Support:
 http://docs.opencv.org/modules/contrib/doc/facerec/tutorial/facerec_video_recognition.html?highlight=crop
+
+Cascade Classifiers - Object Recognition in a Video (i.e. face detection)
 http://docs.opencv.org/doc/tutorials/objdetect/cascade_classifier/cascade_classifier.html#
