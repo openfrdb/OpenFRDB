@@ -10,7 +10,7 @@ the OpenSource Community.
 We will be building a database engine for facial recognition purposes.  
 
 
-The intial architecture is as follows:
+The initial architecture is as follows:
 
 1)  Subject Image Parser
 
